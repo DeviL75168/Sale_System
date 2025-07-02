@@ -1,0 +1,26 @@
+Transaction Date/Time: Wed May 14 10:07:25 2025
+Customer: Ray_Lama
+Phone: 98273272823
+
+Purchase Details:
+--------------------------------------------------------------------------------
+Item		Brand		Origin	Qty	Before	After	Price	Total
+--------------------------------------------------------------------------------
+Shampoo		Dove		USA	3	104	102	Rs.120	Rs.360
+Conditioner	Pantene		France	2	11	9	Rs.150	Rs.300
+Toothpaste	Colgate		USA	1	7	6	Rs.90	Rs.90
+--------------------------------------------------------------------------------
+Total Purchases: Rs.750
+
+Sales Details:
+--------------------------------------------------------------------------------
+Item		Brand		Origin	Qty	Before	After	Price	Total
+--------------------------------------------------------------------------------
+Soap		Lux		India	2	83	81	Rs.40	Rs.80
+Soap		Lux		India	3	81	78	Rs.40	Rs.120
+--------------------------------------------------------------------------------
+Total Sales: Rs.200
+
+Net Total: Rs.-550
+Remaining Balance: Rs.450
+================================================================================

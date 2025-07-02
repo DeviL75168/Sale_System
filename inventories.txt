@@ -1,0 +1,4 @@
+Shampoo,Dove,104,120,USA
+Soap,Lux,76,40,India
+Toothpaste,Colgate,6,90,USA
+Conditioner,Pantene,9,150,France
